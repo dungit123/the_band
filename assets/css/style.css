@@ -163,7 +163,7 @@ html {
 #slider {
        margin-top: 46px;
        padding-top: 50%; 
-       background-image: url('../assets/img/slider1.jpg');
+       background-image: url('/assets/img/slider1.jpg');
        background-size: cover ;
        background-repeat: no-repeat;  
        background-position: top center; 
