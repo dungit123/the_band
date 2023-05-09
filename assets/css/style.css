@@ -140,7 +140,7 @@ html {
   display: block;
 }
 
-#nav > li:hover > a,
+#nav > li:hover >,
 #nav .subnav li:hover {
   color: #000;
   background-color: #ccc;
